@@ -1,0 +1,17 @@
+en:
+  api:
+    errors:
+      profile_completed_step:
+        incorrect: 間違いました-Wrong
+      device_token:
+        cannot_be_blank: デバイストークンは空にすることはできませ
+      device_type:
+        is_required: デバイスタイプが必要です
+      email_or_password_not_present: リクエストは、メールアドレスとパスワードが含まれている必要があります
+      access_token_invalid: 不正なアクセストークン
+      video_request:
+        over: このビデオ通話は終わりました
+      video_request1:
+        over1: このビデオ通話が行われます
+      video_request2:
+        over2: このビデオ通話が進行中です
